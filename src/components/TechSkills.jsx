@@ -61,7 +61,7 @@ function TechSkills() {
                     </div>
 
                     <div className="p-4 bg-white rounded-lg shadow-md hover:shadow-xl transform transition duration-300 ease-in-out hover:scale-110 m-1">
-                        <img src="public/assets/angular.webp" alt="Angular" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
+                        <img src="public\assets\angular.webp" alt="Angular" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
                     </div>
 
                     <div className="p-4 bg-white rounded-lg shadow-md hover:shadow-xl transform transition duration-300 ease-in-out hover:scale-110 m-1">
