@@ -13,63 +13,63 @@ function TechSkills() {
                 <div className="flex flex-wrap justify-center items-center xl:pt-[15px] pt-[5px]">
 
                     <div className="p-4 bg-white rounded-lg shadow-md hover:shadow-xl transform transition duration-300 ease-in-out hover:scale-110 m-1">
-                        <img src="public/assets/java.png" alt="Java" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
+                        <img src="./assets/java.png" alt="Java" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
                     </div>
 
                     <div className="p-4 bg-white rounded-lg shadow-md hover:shadow-xl transform transition duration-300 ease-in-out hover:scale-110 m-1">
-                        <img src="public/assets/python.webp" alt="Python" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
+                        <img src="./assets/python.webp" alt="Python" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
                     </div>
 
                     <div className="p-4 bg-white rounded-lg shadow-md hover:shadow-xl transform transition duration-300 ease-in-out hover:scale-110 m-1">
-                        <img src="public/assets/csharp.png" alt="C#" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
+                        <img src="./assets/csharp.png" alt="C#" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
                     </div>
 
                     <div className="p-4 bg-white rounded-lg shadow-md hover:shadow-xl transform transition duration-300 ease-in-out hover:scale-110 m-1">
-                        <img src="public/assets/postgresql.png" alt="PostgreSQL" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
+                        <img src="./assets/postgresql.png" alt="PostgreSQL" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
                     </div>
 
                     <div className="p-4 bg-white rounded-lg shadow-md hover:shadow-xl transform transition duration-300 ease-in-out hover:scale-110 m-1">
-                        <img src="public/assets/html.webp" alt="HTML" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
+                        <img src="./assets/html.webp" alt="HTML" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
                     </div>
 
                     <div className="p-4 bg-white rounded-lg shadow-md hover:shadow-xl transform transition duration-300 ease-in-out hover:scale-110 m-1">
-                        <img src="public/assets/css.webp" alt="CSS" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
+                        <img src="./assets/css.webp" alt="CSS" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
                     </div>
 
                     <div className="p-4 bg-white rounded-lg shadow-md hover:shadow-xl transform transition duration-300 ease-in-out hover:scale-110 m-1">
-                        <img src="public/assets/javascript.png" alt="JavaScript" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
+                        <img src="./assets/javascript.png" alt="JavaScript" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
                     </div>
 
                     <div className="p-4 bg-white rounded-lg shadow-md hover:shadow-xl transform transition duration-300 ease-in-out hover:scale-110 m-1">
-                        <img src="public/assets/React.webp" alt="React" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
+                        <img src="./assets/React.webp" alt="React" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
                     </div>
 
                     <div className="p-4 bg-white rounded-lg shadow-md hover:shadow-xl transform transition duration-300 ease-in-out hover:scale-110 m-1">
-                        <img src="public/assets/vite.png" alt="Vite" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
+                        <img src="./assets/vite.png" alt="Vite" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
                     </div>
 
                     <div className="p-4 bg-white rounded-lg shadow-md hover:shadow-xl transform transition duration-300 ease-in-out hover:scale-110 m-1">
-                        <img src="public/assets/tailwind.png" alt="Tailwind" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
+                        <img src="./assets/tailwind.png" alt="Tailwind" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
                     </div>
 
                     <div className="p-4 bg-white rounded-lg shadow-md hover:shadow-xl transform transition duration-300 ease-in-out hover:scale-110 m-1">
-                        <img src="public/assets/nextjs.png" alt="NextJS" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
+                        <img src="./assets/nextjs.png" alt="NextJS" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
                     </div>
 
                     <div className="p-4 bg-white rounded-lg shadow-md hover:shadow-xl transform transition duration-300 ease-in-out hover:scale-110 m-1">
-                        <img src="public/assets/nodejs.png" alt="NodeJS" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
+                        <img src="./assets/nodejs.png" alt="NodeJS" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
                     </div>
 
                     <div className="p-4 bg-white rounded-lg shadow-md hover:shadow-xl transform transition duration-300 ease-in-out hover:scale-110 m-1">
-                        <img src="public\assets\angular.webp" alt="Angular" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
+                        <img src="./assets/angular.webp" alt="Angular" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
                     </div>
 
                     <div className="p-4 bg-white rounded-lg shadow-md hover:shadow-xl transform transition duration-300 ease-in-out hover:scale-110 m-1">
-                        <img src="public/assets/figma.png" alt="Figma" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
+                        <img src="./assets/figma.png" alt="Figma" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
                     </div>
 
                     <div className="p-4 bg-white rounded-lg shadow-md hover:shadow-xl transform transition duration-300 ease-in-out hover:scale-110 m-1">
-                        <img src="public/assets/vscode.webp" alt="VSCode" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
+                        <img src="./assets/vscode.webp" alt="VSCode" className="xl:w-[45px] xl:h-[50px] w-[25px] h-[30px] object-contain" />
                     </div>
                     
                 </div>
