@@ -9,8 +9,8 @@ const projects = [
             "Planned out the portfolio layout and design in Figma",
             "Learned React, Vite, and Tailwind CSS in order to make this portfolio from scratch",
         ],
-        imageSrc: "src/assets/ss.png",
-        tools: ["src/assets/React.webp", "src/assets/vite.png", "src/assets/tailwind.png", "src/assets/figma.png"],
+        imageSrc: "public/assets/ss.png",
+        tools: ["public/assets/React.webp", "public/assets/vite.png", "public/assets/tailwind.png", "public/assets/figma.png"],
         imageLeft: false,
     },
     {
@@ -21,8 +21,8 @@ const projects = [
             "Architected and deployed a robust PostgreSQL database in a team environment, efficiently storing over 100,000 movies, encompassing essential metadata",
             "Developed key functionalities, including a recommendation system that suggests movies based on the user and their friends’ ratings and watched genres / movies"
         ],
-        imageSrc: "src/assets/database.png",
-        tools: ["src/assets/python.webp", "src/assets/postgresql.png"],
+        imageSrc: "public/assets/database.png",
+        tools: ["public/assets/python.webp", "public/assets/postgresql.png"],
         imageLeft: true,
     },
     {
@@ -33,8 +33,8 @@ const projects = [
             "Designed and implemented a user-friendly and responsive frontend utilizing Angular and CSS, ensuring seamless integration with the backend",
             " Collaborated with teammates to develop backend functionalities, contributing to the backend testing and core functions using Java"
         ],
-        imageSrc: "src/assets/web.jpg",
-        tools: ["src/assets/angular.webp", "src/assets/css.webp", "src/assets/java.png"],
+        imageSrc: "public/assets/web.jpg",
+        tools: ["public/assets/angular.webp", "public/assets/css.webp", "public/assets/java.png"],
         imageLeft: false,
     },
 ];

@@ -35,7 +35,7 @@ function AboutMe() {
                 <p className='text-center md:text-xl text-base md:pt-[6px] pt-[2px]'>💼</p>
                 
                 <div className='flex flex-col items-center md:pt-[15px] pt-[10px]'>
-                    <a href="Resume AUGUST 2024 - UPDATED 3.pdf" target="_blank">
+                    <a href="public/assets/Resume AUGUST 2024 - UPDATED 3.pdf" target="_blank">
                         <button className="transition ease-in duration-300 bg-[#0091ff] hover:bg-[#2977b3] 
                                             text-white font-bold md:py-3 md:px-8 py-2 px-6 rounded-full">
                         Resume

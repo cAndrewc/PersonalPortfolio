@@ -4,14 +4,14 @@ import { TypeAnimation } from 'react-type-animation';
 function Header() {
     return (
         <div>
-            <img className ='object-cover w-full md:h-[600px] h-[450px]' src="sky.jfif" alt="Background" />
+            <img className ='object-cover w-full md:h-[600px] h-[450px]' src="public/assets/sky.jfif" alt="Background" />
             <div className='absolute top-0 left-0 w-full md:h-[600px] h-[450px] bg-white/45'></div>
 
             <div className='absolute md:top-[45px] top-[80px] w-full h-[480px] flex flex-col md:flex-row-reverse items-center md:justify-center'>
                 
                 <img 
                     className='w-1/4 md:w-60 h-auto md:h-7/10 rounded-full mb-4 md:mb-0' 
-                    src="pfp.png" 
+                    src="public/assets/pfp.png" 
                     alt="Profile" 
                 />
 
