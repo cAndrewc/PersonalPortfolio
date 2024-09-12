@@ -3,14 +3,14 @@ import ProjectCard from './ProjectCard';
 
 const projects = [
     {
-        title: "Personal Portfolio",
-        description: "Made from scratch",
+        title: "Olostep Web Scraper Website",
+        description: "Implemented a website that allowed users to input a URL to web scrape, outputting both clean and unclean data with a team of 3 as part of Headstarter's hackathon. ",
         details: [
-            "Planned out the portfolio layout and design in Figma",
-            "Learned React, Vite, and Tailwind CSS in order to make this portfolio from scratch",
+            "Helped implement the web scraper logic and improved upon it, allowing for scraping of diverse websites",
+            "Integrated MongoDB to store and manage the scraped data",
         ],
-        imageSrc: "./assets/ss.png",
-        tools: ["./assets/React.webp", "./assets/vite.png", "./assets/tailwind.png", "./assets/figma.png"],
+        imageSrc: "./assets/olostep.png",
+        tools: ["./assets/python.webp", "./assets/mongodb.png", "./assets/nodejs.png", "./assets/puppeteer.png", "./assets/cheerio.svg"],
         imageLeft: false,
     },
     {

@@ -10,17 +10,6 @@ function Experience() {
 
     const experiences = [
         {
-            title: "Headstarter",
-            role: "Software Engineering Fellow",
-            date: "July 2024 - Present",
-            description: "A 7-week software engineering fellowship consisting of building projects, participating in hackathons, interview prepraration, getting feedback and advice from seasoned software engineers, and a final project with the aim of getting 1,000+ users.",
-            details: [
-                "Building 5+ AI apps and APIs utilizing NextJS, OpenAI, Pinecone, StripeAI, along with participating in bi-weekly Hackathons",
-                "Coached by Amazon, Bloomberg, and Capital One engineers on agile, CI/CD, Git, and microservice patterns",
-                "Developing projects from design to deployment with 3 engineering fellows using MVC design patterns"
-            ]
-        },
-        {
             title: "RIT ITS",
             role: "ITS Communications Support",
             date: "November 2023 - Present",
@@ -28,6 +17,17 @@ function Experience() {
             details: [
                 "Worked proactively with a team to help support 20,000+ staff and students, ensuring seamless operation and maintenance of campus voice and data networks",
                 "Assisted customers with resolving their voice and network issues, ensuring minimal downtime",
+            ]
+        },
+        {
+            title: "Headstarter",
+            role: "Software Engineering Fellow",
+            date: "July 2024 - September 2024",
+            description: "A 7-week software engineering fellowship consisting of building projects, participating in hackathons, interview prepraration, getting feedback and advice from seasoned software engineers, and a final project with the aim of getting 1,000+ users.",
+            details: [
+                "Built and deployed 5 AI projects in 5 weeks with 3 fellows utlizing React, NextJS, Firebase, Clerk, and Vercel, following agile methodologies and CI/CD practices for iterative development",
+                "Implemented a web scraper that automatically extracts data from Rate my Professor and upsert to a Pinecone index, integrated with a RAG pipeline using LangChain and OpenAI GPT-4o",
+                "Participated in weekly sessions with engineers from Google, Amazon, Stanford, and venture-backed startups"
             ]
         },
         {
