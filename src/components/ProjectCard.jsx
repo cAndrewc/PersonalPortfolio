@@ -46,3 +46,4 @@ const ProjectCard = ({ title, description, details, imageSrc, tools, imageLeft }
 };
 
 export default ProjectCard;
+
