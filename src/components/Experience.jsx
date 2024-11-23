@@ -31,6 +31,17 @@ function Experience() {
             ]
         },
         {
+            title: "Headstarter",
+            role: "Software Engineering Fellow",
+            date: "July 2024 - September 2024",
+            description: "A 7-week software engineering fellowship consisting of building projects, participating in hackathons, interview prepraration, getting feedback and advice from seasoned software engineers, and a final project with the aim of getting 1,000+ users.",
+            details: [
+                "Built and deployed 5 AI projects in 5 weeks with 3 fellows utlizing React, NextJS, Firebase, Clerk, and Vercel, following agile methodologies and CI/CD practices for iterative development",
+                "Implemented a web scraper that automatically extracts data from Rate my Professor and upsert to a Pinecone index, integrated with a RAG pipeline using LangChain and OpenAI GPT-4o",
+                "Participated in weekly sessions with engineers from Google, Amazon, Stanford, and venture-backed startups"
+            ]
+        },
+        {
             title: "Microsoft Technology Campus (SCIP)",
             role: "Website Intern",
             date: "December 2021 - March 2022",

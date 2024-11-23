@@ -23,11 +23,10 @@ function Header() {
                         <TypeAnimation
                             sequence={[
                                 'Student',
-                                5000, 
+                                3000, 
                                 'Developer',
-                                5000,
-                                'Designer',
-                                5000,
+                                3000,
+                                
                             ]}
                             wrapper="span"
                             speed={25}

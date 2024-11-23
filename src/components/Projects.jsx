@@ -6,7 +6,7 @@ const projects = [
         title: "Olostep Web Scraper Website",
         description: "Implemented a website that allowed users to input a URL to web scrape, outputting both clean and unclean data with a team of 3 as part of Headstarter's hackathon.",
         details: [
-            "Asissted in the implementation of the web scraper logic and improved upon it, allowing for scraping of diverse websites",
+            "Helped implement the web scraper logic and improved upon it, allowing for scraping of diverse websites",
             "Integrated MongoDB to store and manage the scraped data",
         ],
         imageSrc: "./assets/olostep.png",
@@ -66,3 +66,4 @@ function Projects() {
 }
 
 export default Projects;
+
